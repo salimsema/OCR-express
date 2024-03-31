@@ -1,6 +1,5 @@
 # OCR-express
 
-"""
 This is an Express-based OCR (Optical Character Recognition) app that takes an image as input and returns the text extracted from the image in the response.
 
 Usage:
